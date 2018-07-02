@@ -12,7 +12,8 @@ html, body{
 .intro{
 	height:100%; 
 	width:100% auto;
-	top:0; }
+    text-decoration: none;
+    top:0; }
 
 .intro .inner {
 	vertical-align: middle;
