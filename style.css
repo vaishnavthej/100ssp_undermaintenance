@@ -5,7 +5,9 @@ html, body{
 	padding: 0;
 	height: 100%;
 	width: 100% auto; 
-	background-color: #626468; }
+	background-color: #626468; 
+	background-image: url(animated-svg.gif);
+}
 .intro{
 	height:100%; 
 	width:100% auto;
