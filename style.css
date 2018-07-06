@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Yantramanav:100');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400');
-
-
-
 html, body{
 	margin: 0;
 	padding: 0;
@@ -14,7 +11,6 @@ html, body{
 	width:100% auto;
     text-decoration: none;
     top:0; }
-
 .intro .inner {
 	vertical-align: middle;
 	width: 100% auto;
@@ -24,13 +20,10 @@ html, body{
 	margin: 0; auto;
 	text-align: center;
 	padding-bottom: 19% }
-img {
-    
+img {    
     height: 200px;
     width:200px;
-    animation-delay: 2s;
-    
-}
+    animation-delay: 0s;    }
 .content h1{
  	font-family: 'Yantramanav', sans-serif;
  	font-size: 450%;
@@ -38,10 +31,7 @@ img {
  	font-weight: 100%;
  	color: #E1EFE9;
  	line-height:70%;
-    animation-delay: 7s;
-    
- 	 }
-
+    animation-delay: 0s;  }
  #contact{
  	font-family: 'Montserrat', sans-serif;
  	font-size:100% ;
@@ -53,14 +43,11 @@ img {
     padding:0px, 2px;
  	color:#E1EFE9;
  	text-decoration: none;
- 	border: solid #E1EFE9;
+    border: solid #E1EFE9;
     border-radius: 17px;
     position: relative;
-    animation-delay: 9s;
-    animation-iteration-count: 5s;
- 	 }
+    animation-delay: 2s;	 }
 #contact h3{ margin: 17px;}
-
 #contact:hover {
 	color: black;
 	border: solid black;
@@ -80,7 +67,7 @@ img {
  	text-decoration: none;
  	border: solid #E1EFE9;
     border-radius: 17px; 
-    animation-delay: 14s; }
+    animation-delay: 3.3s; }
 #design h3{ margin: 15px;}
 
 #design:hover {
